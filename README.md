@@ -2,8 +2,8 @@
 
 ## Descrição:
 
-Projeto de um sistema de controle de pix para a atividade prática 1 de sistemas Web.
-O projeto utiliza o localStorage do navegador para manter informações temporariamente sobre as transações.
+Projeto de um sistema de controle de pix desenvolvido como atividade prática de sistemas Web I cursado na UFOP em 2021/01.
+O projeto utiliza o local storage do navegador para manter informações temporariamente sobre as transações.
 
 ## Imagens do projeto em execução:
 
