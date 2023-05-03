@@ -1,10 +1,5 @@
 # Controle de Pix
 
-## Dados do aluno:
-
-- Nome: Lucas Pereira Miranda
-- Curso: Engenharia de Computação
-
 ## Descrição:
 
 Projeto de um sistema de controle de pix para a atividade prática 1 de sistemas Web.
