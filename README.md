@@ -54,7 +54,7 @@ O projeto do sistema de controle de pix foi construído com as seguintes tecnolo
 
 ![alt text](.github/table.png)
 
-### Referências:
+### 💻 Referências:
 
 Aquivo de Reset css utilizado:
 
