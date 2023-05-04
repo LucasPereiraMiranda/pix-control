@@ -1,10 +1,29 @@
 # Controle de Pix
 
-## Descrição:
+<h1 align="center">
+  <br/>
+  Pix Control
+</h1>
 
-Projeto de um sistema de controle de pix desenvolvido como um dos projetos da atividade prática de sistemas Web I cursado na UFOP em 2021/01.
-O projeto utiliza o local storage do navegador para manter informações temporariamente sobre as transações.
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LucasPereiraMiranda/pix-control">
 
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/LucasPereiraMiranda/pix-control">
+  
+  <a href="https://github.com/LucasPereiraMiranda/pix-control/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LucasPereiraMiranda/pix-control">
+  </a>
+
+  <a href="https://github.com/LucasPereiraMiranda/pix-control/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/LucasPereiraMiranda/pix-control">
+  </a>
+
+  <a href="https://github.com/LucasPereiraMiranda/pix-control/issues">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/LucasPereiraMiranda/pix-control">
+  </a>
+</p>
+
+<br>
 ## Imagens do projeto em execução:
 
 ### Página inicial:
