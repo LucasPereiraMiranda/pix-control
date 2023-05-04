@@ -24,7 +24,11 @@
 </p>
 
 <br>
-## Imagens do projeto em execução:
+
+## 💻 Descrição do projeto
+
+Projeto de um sistema de controle de pix desenvolvido como um dos projetos da atividade prática de sistemas Web I cursado na UFOP em 2021/01.
+O projeto utiliza o local storage do navegador para manter informações temporariamente sobre as transações.
 
 ### Página inicial:
 
