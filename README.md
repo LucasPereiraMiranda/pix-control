@@ -38,7 +38,7 @@ O projeto do sistema de controle de pix foi construído com as seguintes tecnolo
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Página inicial:
+## 💻 Imagens do projeto em execução
 
 ![alt text](.github/welcome.png)
 
