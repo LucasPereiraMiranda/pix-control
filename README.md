@@ -1,4 +1,4 @@
-# Controle de Pix
+# Pix Control
 
 <h1 align="center">
   <br/>
