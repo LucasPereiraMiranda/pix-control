@@ -40,15 +40,15 @@ O projeto do sistema de controle de pix foi construído com as seguintes tecnolo
 
 ![alt text](.github/welcome.png)
 
-### Página de registro de transações:
+### Página de registro de transações
 
 ![alt text](.github/register.png)
 
-### Transação registrada com sucesso:
+### Transação registrada com sucesso
 
 ![alt text](.github/success.png)
 
-### Saldo total e histórico de transações:
+### Saldo total e histórico de transações
 
 ![alt text](.github/table.png)
 
@@ -65,7 +65,7 @@ $ Podemos executar no browser ou com o live server apontando para public/index.h
 
 ---
 
-### 💻 Referências:
+### 💻 Referências
 
 Aquivo de Reset css utilizado:
 
