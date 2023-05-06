@@ -54,6 +54,19 @@ O projeto do sistema de controle de pix foi construído com as seguintes tecnolo
 
 ![alt text](.github/table.png)
 
+## :boom: Instruções de execução
+
+```bash
+# Podemos clonar este repositório executando
+$ git clone git@github.com:LucasPereiraMiranda/pix-control.git
+
+
+$ Podemos executar no browser ou com o live server apontando para public/index.html
+
+```
+
+---
+
 ### 💻 Referências:
 
 Aquivo de Reset css utilizado:
