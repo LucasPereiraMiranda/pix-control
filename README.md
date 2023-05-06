@@ -1,5 +1,3 @@
-# Pix Control
-
 <h1 align="center">
   <br/>
   Pix Control
